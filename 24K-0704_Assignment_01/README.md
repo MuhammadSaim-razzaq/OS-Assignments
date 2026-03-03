@@ -11,4 +11,4 @@ Add Hello World system call and rename kernel.
 ![Syscall Output](img/sys_20.png)
 
 ## Full Documentation
-All step-by-step screenshots are available inside the img folder.
+All step-by-step screenshots are available inside the img folder and word document of all commands used.
